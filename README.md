@@ -20,9 +20,9 @@ This repository contains Next.js projects I’ve built while learning modern fro
 ---
 
 ## 2. Music Project (Learning / Experimental)
-- *Description:* Small project to practice Next.js, Tailwind, Framer Motion, and tailwind-merge
-- *Tech Stack:* Next.js, React, Tailwind CSS, Framer Motion, tailwind-merge
+- *Description:* Small project to practice Next.js, React state management, and ShadCN components
+- *Tech Stack:* Next.js, React, Tailwind CSS, ShadCN
 - *Features:*
-  - Animations using Framer Motion
-  - UI components with Tailwind
-  - Learning project to explore Next.js concepts
+  - Practiced useState for interactive components
+  - Implemented UI components using ShadCN
+  - Learned dynamic styling with Tailwind CSS
